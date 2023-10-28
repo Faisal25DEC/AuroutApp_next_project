@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logout {
+  padding: 8px;
+  border: none;
+  background-color: rgb(61, 221, 61);
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}

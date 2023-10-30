@@ -1,3 +1,12 @@
+#things learnt
+1. Next Routing
+2. Styling UI in next.js(layouts, pages, nested routes and grouped routes)
+3. Nextauth(credentials auth, provider auth)
+4. Next API(data fetching using swr(mutate in swr))
+5. protected routes using useSession() hook and useRouter for routing and navigation
+6. Overall project folder structure and integration of backend inside of the a complete full stack next project
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
